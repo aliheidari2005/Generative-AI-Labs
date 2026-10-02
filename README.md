@@ -48,9 +48,7 @@ Then open the notebooks in order (`lab_one` → `lab_two` → `lab_three`). A GP
 
 ## Results
 
-> Add sample outputs here, e.g. generated MNIST digits for different guidance scales:
->
-> `![MNIST samples](images/mnist_samples.png)`
+![MNIST samples output](output.png)
 
 ## References
 
